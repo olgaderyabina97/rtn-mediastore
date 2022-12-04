@@ -1,1 +1,1 @@
-# rtn-mediastoremanager provides getting all images from android devices and native component, which allows to render lightweight thumbnail images
+# rtn-mediastoremanager provides getting all images from android devices, including contentURI of image, which allows to render lightweight thumbnails
